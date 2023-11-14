@@ -1,4 +1,4 @@
-## 💻 Personal Project 3
+## 💻 Personal Project 4
 ### 1. 프로젝트 목표
 * JSP "MVC2 게시판" 구현
 * 회원인증 없이 누구나 사용가능
