@@ -1,0 +1,5 @@
+{"coffee_list": [ {"coffee_id": "100", "name": "아이스아메리카노", "kind": "커피", "price": "4000", "reg_date": "2023-11-12"},
+    {"coffee_id": "200", "name": "아이스티", "kind": "음료/티", "price": "4500", "reg_date": "2022-12-31"},
+    {"coffee_id": "300", "name": "민트티", "kind": "음료/티", "price": "3500", "reg_date": "2021-05-13"},
+    {"coffee_id": "400", "name": "바닐라아이스크림", "kind": "디저트/아이스크림", "price": "2000", "reg_date": "2019-03-08"} ]
+}
